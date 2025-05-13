@@ -1,0 +1,17 @@
+//Problem Name : A to N
+//Course title : competitive programming sessional
+//Course code  : CCE-2310
+//course Teacher Name : Mirza Raquib
+
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    long  long n;
+    cin>>n;
+    for(int i=1;i<=n;i++)
+    {
+        cout<<i<<endl;
+    }
+    return 0;
+}
